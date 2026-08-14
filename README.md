@@ -20,7 +20,7 @@ The system consists of the following stages:
 6. **Smart Contracts** - SEP-compliant Oracle on Stellar
 7. **Frontend Demo** - UI for visualizing feeds
 
-Data flows from raw external sources → ingestor → aggregator → signer → API → on-chain oracle.
+Data flows from raw external sources → ingestor → aggregator → signer → API -> on-chain oracle.
 
 ## 🗂️ Monorepo Layout
 
