@@ -100,7 +100,7 @@ npm run check-types
 
 ## 📚 Documentation
 
-See the [docs/](./docs/) directory for detailed documentation.
+See the [docs/](./docs/) directory for detailed documentation
 
 ## 🧪 Testing
 
