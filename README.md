@@ -12,7 +12,7 @@ The goal is to make this **reliable, testable, and extensible**, with each part 
 
 The system consists of the following stages:
 
-1. **Ingestor** - Connects to external stock price APIs
+1. **Ingestor** - Connects to external stock price AP
 2. **Aggregator** - Normalizes, filters, and aggregates data
 3. **Signer** - Produces signed proofs of aggregated prices
 4. **API Publisher** - Exposes a REST/WebSocket endpoint
