@@ -114,7 +114,7 @@ npm test
 npm test --filter=@oracle-stocks/shared
 ```
 
-## 🏥 CI / Repo Health
+## 🏥 CI Repo Health
 
 Before pushing, verify that the full CI pipeline passes locally:
 
