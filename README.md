@@ -6,7 +6,7 @@ An open-source **off-chain oracle system** that provides **real-world stock pric
 
 This project fetches stock prices from multiple external financial APIs, normalizes and aggregates them, cryptographically signs the results, exposes them via a backend API, and supports on-chain submission to a Stellar oracle contract, so smart contracts can depend on real stock prices.
 
-The goal is to make this **reliable, testable, and extensible**, with each part implemented as a separate app or package in this monorepo.
+The goal is to make this **reiable, testable, and extensible**, with each part implemented as a separate app or package in this monorepo.
 
 ## 🏗️ High-Level Architecture
 
