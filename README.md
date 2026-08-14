@@ -119,7 +119,7 @@ npm test --filter=@oracle-stocks/shared
 Before pushing, verify that the full CI pipeline passes locally:
 
 ```bash
-npm ci && npm run lint && npm run check-types && npm run build && npm test
+npm ci && npm run lint && npm run check-types && npm run build
 ```
 
 | Command              | What it does                                      |
