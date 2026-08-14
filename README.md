@@ -18,7 +18,7 @@ The system consists of the following stages:
 4. **API Publisher** - Exposes a REST/WebSocket endpoint
 5. **Transactor** - Submits signed data on-chain
 6. **Smart Contracts** - SEP-compliant Oracle on Stellar
-7. **Frontend Demo** - UI for visualizing feeds
+7. **Frontend Demo** - UI for visualizing feed
 
 Data flows from raw external sources → ingestor → aggregator → signer → API → on-chain oracle.
 
